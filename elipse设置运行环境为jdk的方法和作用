@@ -1,0 +1,4 @@
+方法:
+preferences --> java -->Installed JREs
+添加jdk作为运行环境
+-->Execution Environments 选择对应的jdk版本 再选择添加的jdk环境
