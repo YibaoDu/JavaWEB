@@ -1,0 +1,5 @@
+1.设置配置文件路径
+window --> perferences --> Maven --> lifecycle mappings 
+选择lifecycle-mapping-metadata.xml文件路径
+一般在[工作空间路径]\.metadata\.plugins\org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+2.pom文件的错误处，按ctrl+1，选择最下面的选项解决错误提示
